@@ -3,31 +3,38 @@
 ## じゃんけんゲーム
 生徒：中学1年生　スタンダードコース作品
 
-[ファイル](./js-janken/public_html/index.html)  
+[ゲーム実行](./js-janken/public_html/index.html)  
 
 ## 鬼ごっこゲーム
 生徒：小学6年生　スタンダードコース作品
 
-[ファイル](./js-onigokko/public_html/index.html)  
+[ゲーム実行](./js-onigokko/public_html/index.html)  
 
 
 ## ジャンプゲーム（アングリーバード風）
 生徒：小学6年生　スタンダードコース作品
 スペースキーでジャンプ
 
-[ファイル](./js-sena/public_html/index.html)  
+[ゲーム実行](./js-sena/public_html/index.html)  
 
 
 ## 数独ゲーム
-生徒：中学3年生　スタンダードコース作品
-これは未完成です。完成していない状態で受験のため終了しました
+生徒：中学3年生　スタンダードコース作品  
+これは未完成です。完成していない状態で受験のため終了しました  
 
-[ファイル](./js-sudoku/public_html/index.html)  
+[ゲーム実行](./js-sudoku/public_html/index.html)  
+
+
+## 横スクロールアクションゲーム  
+生徒：中学2年生　スタンダードコース作品  
+左右移動　ジャンプ　スペースキーで弾発射  
+
+[ゲーム実行](./js-yuki/public_html/index.html)  
 
 
 ## 横スクロールアクションゲーム
-生徒：中学2年生　スタンダードコース作品
-左右移動　ジャンプ　スペースキーで弾発射
+生徒：中学2年生　スタンダードコース作品  
+左右移動　ジャンプ　スペースキーで弾発射  
+アクションゲーム。3面、最後にボス敵が登場  
 
-[ファイル](./js-yuki/public_html/index.html)  
-
+[ゲーム実行](./js-yota/public_html/index.html)  
