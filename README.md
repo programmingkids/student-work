@@ -1,6 +1,7 @@
 # コードオブジーニアス生徒作品
 
-## xxxxx
-生徒：XXXX
+## じゃんけんゲーム
+生徒：中学1年生　スタンダードコース作品
 
-[実行結果](./fireworks01.html)  
+[実行結果](./js-janken/public_html/index.html)  
+
