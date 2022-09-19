@@ -1,0 +1,112 @@
+html, body, div, p {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #FFE4E1;
+}
+#container{
+    width : 600px;
+    margin: 50px auto;
+    background-color: #fff;
+}
+#title {
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+#control {
+    text-align: center;
+    margin: 10px;
+    padding : 20px;
+}
+
+
+#start_btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:10px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+#start_btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+#start_btn:active {
+	position:relative;
+	top:1px;
+}
+
+#check_btn, #clear_btn {
+	box-shadow: 0px 0px 0px 2px #fcb3b3;
+	background:linear-gradient(to bottom, #fa8c95 5%, #ed0909 100%);
+	background-color:#fa8c95;
+	border-radius:10px;
+	border:1px solid #ff000d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:10px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #750505;
+}
+#check_btn:hover, #clear_btn:hover {
+	background:linear-gradient(to bottom, #ed0909 5%, #fa8c95 100%);
+	background-color:#ed0909;
+}
+#check_btn:active, #clear_btn:active {
+	position:relative;
+	top:1px;
+}
+
+#area {
+    padding: 10px;
+    margin: 10px;
+}
+
+.sudoku-table{
+     margin: 0 auto;
+     border-collapse:collapse;
+}
+.sudoku-table tr{
+    border: 1px solid #ccc;
+    border-left: 4px solid #000;
+    border-right: 4px solid #000;
+}
+.sudoku-table tr:nth-child(3), 
+.sudoku-table tr:nth-child(6),
+.sudoku-table tr:nth-child(9)
+{
+    border-bottom: 4px solid #000;
+}
+.sudoku-table tr:nth-child(1)
+{
+    border-top: 4px solid #000;
+}
+.sudoku-table td {
+    border : 1px solid #ccc;
+}
+.sudoku-table td:nth-child(3),
+.sudoku-table td:nth-child(6)
+{
+    border-right: 4px solid #000;
+}
+
+.number-box{
+    width : 20px;
+    border: none;
+    padding: 10px;
+    text-align :center;
+    font-size: 16px;
+}
