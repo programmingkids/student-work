@@ -50,5 +50,5 @@
 生徒：中学2年生　スタンダードコース作品  
 横スクロールアクション　1面と2面で構成。2面はボス敵。ボスを倒すとクリア
 
-[ゲーム実行](./js-yuya/public_html/index.html)  
+[ゲーム実行](./js-takuto/public_html/index.html)  
 
