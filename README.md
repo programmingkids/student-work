@@ -52,3 +52,8 @@
 
 [ゲーム実行](./js-takuto/public_html/index.html)  
 
+## 謎解きパズルゲーム
+生徒：中学1年生　スタンダードコース作品  
+謎解きパズル　1面2面3面で構成  
+
+[ゲーム実行](./js-iro/public_html/index.html)  
